@@ -14,7 +14,7 @@ O propósito de montar esta estrutura consiste em mostrar como controlar um LED 
 
 ## Tinkercad Simulation (Atividade A)
 
-Você pode acessar uma simulação deste projeto no Tinkercad clicando [aqui](https://www.tinkercad.com/things/202XwRQpPTr-stunning-jofo/editel?sharecode=MUUWKSFR_3raqsbHuUJFdEVzhuwG0FYNYcGzFMw1Ny8) Esta simulação permite visualizar o funcionamento do led num ambiente virtual antes de sua respectiva implementação.
+Você pode acessar uma simulação deste projeto no Tinkercad clicando [aqui](https://www.tinkercad.com/things/3k7cXSc5EKF-mighty-amur/editel?sharecode=LQkVEqEy6LzjZAZfqLBSAjIlHKlQ80LC0dGxzrPKjSE) Esta simulação permite visualizar o funcionamento do led num ambiente virtual antes de sua respectiva implementação.
 
 ## Instalação (Atividade A)
 1. Monte o suporte do Led e fixando os componentes utilizados (AUR3, Led, Resistor, PdE)
