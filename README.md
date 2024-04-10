@@ -2,11 +2,11 @@
 Este projeto consiste em um painel solar automatizado que se move em busca da máxima eficiência, utilizando fotossensores para detectar a intensidade da luz ambiente. O objetivo é garantir que a placa solar esteja sempre posicionada de forma a capturar a maior quantidade de luz possível.
 
 ## Componentes Utilizados
-Arduino Uno R3
-Fotossensores (Fotorresistores)
-Posicional Micro Servo
-Resistor de 10 kΩ
-Placa solar (simbólica, utilizada apenas para fins de prototipagem)
+- Arduino Uno R3
+- Fotossensores (Fotorresistores)
+- Posicional Micro Servo
+- Resistor de 10 kΩ
+- Placa solar (simbólica, utilizada apenas para fins de prototipagem)
 
 ## Funcionamento
 O painel solar é montado sobre um suporte que permite movimento rotacional. Dois fotossensores são posicionados em direções opostas no suporte, de modo que um está exposto à luz direta do sol enquanto o outro está na sombra. O servo motor é conectado ao suporte do painel solar e é responsável por ajustar sua posição.
@@ -14,7 +14,7 @@ O painel solar é montado sobre um suporte que permite movimento rotacional. Doi
 O Arduino lê continuamente os valores dos fotossensores para determinar a diferença de intensidade de luz entre eles. Com base nessa diferença, o Arduino calcula a direção em que o painel solar deve se mover para maximizar a exposição à luz solar. O servo motor é então acionado para girar o painel na direção adequada.
 
 ## Tinkercad Simulation
-Você pode acessar uma simulação deste projeto no Tinkercad clicando aqui. Esta simulação permite visualizar o funcionamento do painel solar automatizado em um ambiente virtual antes de implementá-lo fisicamente.
+Você pode acessar uma simulação deste projeto no Tinkercad clicando [aqui](https://www.tinkercad.com/things/202XwRQpPTr-stunning-jofo/editel?sharecode=MUUWKSFR_3raqsbHuUJFdEVzhuwG0FYNYcGzFMw1Ny8). Esta simulação permite visualizar o funcionamento do painel solar automatizado em um ambiente virtual antes de implementá-lo fisicamente.
 
 ## Instalação
 Monte o suporte do painel solar e fixe os fotossensores em posições opostas.
