@@ -31,5 +31,8 @@ A plataforma de comunicação em nuvem (cloud) a qual foi utilizada foi a Twilio
 ## MyAppInventor
 Esta aplicação foi utilizada para exibir os graficos de linhas e videos diretamente no Dashboard. [aqui](https://ai2.appinventor.mit.edu/#5913412504715264)
 
+## Youtube
+A apresentação deste projeto foi gravado por videor e publicado no Youtube através do link: [aqui](https://www.youtube.com/watch?v=NhYf1FsS7JQ)
+
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir problemas ou adicionar novos recursos ao projeto.
