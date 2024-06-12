@@ -1,0 +1,9 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"R1, R2",2," Fotorresistor"
+"SERVO1",1,"Posicional Micro servo"
+"R3, R4",2,"10 kΩ Resistor"
+"SC1",1,"5 V, 100 mA Célula solar"
+"U3",1," Módulo Wifi (ESP8266)"
+"R5",1,"20 kΩ Resistor"
+"R6",1,"10 kΩ Resistor"

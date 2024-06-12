@@ -22,5 +22,18 @@ Conecte os componentes eletrônicos de acordo com o esquema fornecido.
 Carregue o código Arduino fornecido neste repositório para o Arduino Uno.
 Certifique-se de que o painel solar está em um local onde possa receber luz solar direta.
 
+## ThingSpeak
+Você pode acessar o canal do ThingSpeak clicando [aqui](https://thingspeak.com/channels/2558350). Este canal mostra status que permite visualizar os gráficos de linha da Luminosidade e Rotação, que é referente ao funcionamento do painel solar automatizado.
+
+## ThingSpeak
+Você pode acessar o canal do ThingSpeak clicando [aqui](https://thingspeak.com/channels/2558350). Este canal mostra status que permite visualizar os gráficos de linha da Luminosidade e Rotação, que é referente ao funcionamento do painel solar automatizado.
+
+## Twilio
+A plataforma de comunicação em nuvem (cloud) a qual foi utilizada foi a Twilio para fins de fornecimento de API para SMS.
+
+## MyAppInventor
+Esta aplicação foi utilizada para exibir os graficos de linhas e videos diretamente no Dashboard.
+
+
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir problemas ou adicionar novos recursos ao projeto.
