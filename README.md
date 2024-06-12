@@ -29,7 +29,7 @@ Você pode acessar o canal do ThingSpeak clicando [aqui](https://thingspeak.com/
 A plataforma de comunicação em nuvem (cloud) a qual foi utilizada foi a Twilio para fins de fornecimento de API para SMS.
 
 ## MyAppInventor
-Esta aplicação foi utilizada para exibir os graficos de linhas e videos diretamente no Dashboard.
+Esta aplicação foi utilizada para exibir os graficos de linhas e videos diretamente no Dashboard. [aqui](https://ai2.appinventor.mit.edu/#5913412504715264)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir problemas ou adicionar novos recursos ao projeto.
